@@ -1,2 +1,5 @@
 Install node steps
 https://nodejs.org/en/docs/guides/getting-started-guide/
+
+To make command prompt colorful
+https://alligator.io/nodejs/styling-output-command-line-node-scripts-chalk/
