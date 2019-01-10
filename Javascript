@@ -6,3 +6,6 @@ https://medium.com/@saigowthamr/rest-vs-spread-operator-javascript-f95e4581dd98
 Map, reduce and filter
 
 https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d
+
+//javascript-errors-from-1000-projects-and-how-to-avoid-them
+https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437
