@@ -15,3 +15,7 @@ INSERT INTO "Test" VALUES
 
 
 UPDATE films SET kind = 'Dramatic' WHERE kind = 'Drama';
+
+//Change datatype of column
+
+ALTER TABLE the_table ALTER COLUMN col_name TYPE integer USING (col_name::integer);
