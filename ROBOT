@@ -1,2 +1,6 @@
 Rasberry pi Linked in course
 https://www.linkedin.com/learning/raspberry-pi-essential-training/raspberry-pi-overview
+
+
+//for circuit design
+https://www.autodesk.in/products/eagle/overview?referrer=%2Fproducts%2Feagle%2Foverview
