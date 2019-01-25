@@ -19,3 +19,15 @@ UPDATE films SET kind = 'Dramatic' WHERE kind = 'Drama';
 //Change datatype of column
 
 ALTER TABLE the_table ALTER COLUMN col_name TYPE integer USING (col_name::integer);
+
+for displayig no of connections on heroku
+heroku pg:ps
+
+To kill connections
+heroku pg:kill process number
+
+
+To kill all connections
+
+heroku pg:killall
+
