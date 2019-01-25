@@ -30,4 +30,7 @@ heroku pg:kill process number
 To kill all connections
 
 heroku pg:killall
+//to get last insert ID
+
+https://stackoverflow.com/questions/2944297/postgresql-function-for-last-inserted-id
 
