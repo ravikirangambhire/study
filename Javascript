@@ -1,3 +1,6 @@
+//modern javascript in depth
+https://javascript.info/
+
 Link for spread operator
 
 https://medium.com/@saigowthamr/rest-vs-spread-operator-javascript-f95e4581dd98
