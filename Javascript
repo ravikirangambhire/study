@@ -12,3 +12,36 @@ https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-fil
 
 //javascript-errors-from-1000-projects-and-how-to-avoid-them
 https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437
+
+
+A handy snippet for sorting array objects…
+
+
+
+var arr = [
+  {
+    order: 3    
+  },
+  {
+    order: 6
+  },
+  {
+    order: 5
+  },
+  {
+    order: 2
+  },
+  {
+    order: 4
+  },
+  {
+    order: 1
+  }
+];
+
+arr.forEach((i) => console.log(i.order)); // 3 6 5 2 4 1
+arr.sort((a, b) => a.order - b.order);
+arr.forEach((i) => console.log(i.order)); // 1 2 3 4 5 6
+view rawsorting-arrays.js hosted with ❤ by GitHub
+
+
