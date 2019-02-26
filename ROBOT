@@ -4,3 +4,24 @@ https://www.linkedin.com/learning/raspberry-pi-essential-training/raspberry-pi-o
 
 //for circuit design
 https://www.autodesk.in/products/eagle/overview?referrer=%2Fproducts%2Feagle%2Foverview
+
+
+
+steps
+
+1) buy chasis
+
+2) buy tyres
+
+3) buy motors
+
+4)buy circuits
+
+
+5) assemble parts
+
+6) install necessary software
+
+7) write code 
+
+8) test 
