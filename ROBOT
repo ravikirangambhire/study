@@ -6,7 +6,7 @@ https://www.linkedin.com/learning/raspberry-pi-essential-training/raspberry-pi-o
 https://www.autodesk.in/products/eagle/overview?referrer=%2Fproducts%2Feagle%2Foverview
 
 
-
+//https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA
 steps
 
 1) buy chasis
